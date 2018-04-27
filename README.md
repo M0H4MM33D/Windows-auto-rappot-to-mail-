@@ -6,9 +6,10 @@ PowerShell powershell -ExecutionPolicy ByPass -File ./sentemail.ps1
 
 ---
 
-and about make it auto 
+or you can make it auto 
 
 Open Task Scheduler(Local) -> Task Scheduler Library ->Right click-> Import Task->OK
 
 and import xml file 
 
+you need just change dictionary in xml file
